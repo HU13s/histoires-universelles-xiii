@@ -275,7 +275,7 @@ sub {
 	.title h2 {
 		font-weight: 400;
 		font-size: 2em;
-		color: navy;
+		color: indianred;
 	}
 	
 	.title .byline {
@@ -316,7 +316,7 @@ positionner les éléments imbriqués.
 
 #header-wrapper {
     padding: 2em 0 2em 0;
-    background: navy;
+    background: indianred;
 }
 
 
@@ -359,7 +359,7 @@ positionner les éléments imbriqués.
 	#banner {
 		overflow: hidden;
 		height: 500px;
-		background: url(export-2.png) no-repeat center;
+		background: url(bidouille1.png) no-repeat center;
 		background-attachment: fixed;
 		background-size: cover;
 	}
